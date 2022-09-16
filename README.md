@@ -17,7 +17,7 @@ The Canva data scraper supports the following features:
 
 ## Bugs, fixes, updates and changelog
 
-This scraper is under active development. If you have any feature requests you can create an issue from [here](https://github.com/tugkan/canva-scraper/issues).
+This scraper is under active development. If you have any feature requests you can create an issue from [here](https://github.com/epctex/canva-scraper/issues).
 
 ## Input Parameters
 
